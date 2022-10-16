@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block content %}
+{% set section = get_section(path="photos/_index.md") %}
+
+<h1 class="title">{{ section.title }}</h1>
+
+{% for page in section.pages %}
+<h2> {{ page.title }} </h2>
+<p> {{ page.content | safe}} </p>
+{% endfor %}
+
+{% endblock content %}

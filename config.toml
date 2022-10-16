@@ -1,18 +1,18 @@
 # The URL the site will be built for
-base_url = "https://anpu-zola-theme.netlify.app"
+base_url = "https://lucien-s.com"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
-highlight_code = true
+highlight_code = false
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
-title = "Anpu theme"
-description = "A clean blogging theme"
+title = "Lucien Simpfendoerfer"
+description = "Personal site"
 generate_feed = true
 
 taxonomies = [
@@ -23,6 +23,7 @@ taxonomies = [
 [extra]
 anpu_date_format="%e %B %Y"
 anpu_menu_links = [
-    { url = "$BASE_URL/about/", name = "About" },
-    { url = "$BASE_URL/tags/", name = "Tags" },
+    { url = "$BASE_URL/photos", name = "Photos" },
+    # { url = "https://www.linkedin.com/in/luciensimpfendoerfer/", name = "LinkedIn" },
+    # { url = "mailto:lucien.simpfendoerfer@gmail.com", name = "Email" },
 ]

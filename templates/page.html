@@ -1,5 +1,4 @@
-{% import "macros/page.html" as page_macros %}
-{% extends "index.html" %}
+{% extends "base.html" %}
 
 {% block title %}{{ page.title }}{% endblock %}
 
@@ -12,8 +11,6 @@
     <div class="content">
         {{ page.content | safe }}
     </div>
-
-    {{ page_macros::page_info(page=page) }}
 </article>
 
 {% endblock content %}
