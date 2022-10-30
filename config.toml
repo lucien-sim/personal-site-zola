@@ -23,7 +23,7 @@ taxonomies = [
 [extra]
 anpu_date_format="%e %B %Y"
 anpu_menu_links = [
-    { url = "$BASE_URL/photos", name = "Photos" },
+    { url = "$BASE_URL/photos", name = "Photos" }, 
     # { url = "https://www.linkedin.com/in/luciensimpfendoerfer/", name = "LinkedIn" },
     # { url = "mailto:lucien.simpfendoerfer@gmail.com", name = "Email" },
 ]
