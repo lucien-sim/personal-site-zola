@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>Lucien Simpfendoerfer</title>
+	<subtitle>Personal site</subtitle>
+	<link href="https://lucien-s.com/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://lucien-s.com"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2018-07-01T00:00:00+00:00</updated>
+	<id>https://lucien-s.com/atom.xml</id>
+	<entry xml:lang="en">
+		<title>John Muir Trail</title>
+		<published>2018-07-01T00:00:00+00:00</published>
+		<updated>2018-07-01T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://lucien-s.com/photos/jmt/" type="text/html"/>
+		<id>https://lucien-s.com/photos/jmt/</id>
+		<content type="html">&lt;p&gt;Through-hike of the John Muir Trail, which traverses more than 200 miles from Yosemite Valley to the summit of Mount Whitney. &lt;a href=&quot;https:&#x2F;&#x2F;flic.kr&#x2F;s&#x2F;aHskToEoS9&quot;&gt;Flickr&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;img src=&quot;photos&#x2F;jmt_photo_large.jpeg&quot; alt=&quot;jmt_photo&quot; width=&quot;100%&quot; style=&quot;padding-top: 7px; float: center;&quot;&#x2F;&gt;</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Svalbard</title>
+		<published>2016-01-26T00:00:00+00:00</published>
+		<updated>2016-01-26T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://lucien-s.com/photos/svalbard/" type="text/html"/>
+		<id>https://lucien-s.com/photos/svalbard/</id>
+		<content type="html">&lt;p&gt;My time in the Arctic. &lt;a href=&quot;https:&#x2F;&#x2F;flic.kr&#x2F;s&#x2F;aHsmbciJJk&quot;&gt;Flickr&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;img src=&quot;photos&#x2F;svalbard_photo_large.jpeg&quot; alt=&quot;svalbard_photo&quot; width=&quot;100%&quot; style=&quot;padding-top: 7px; float: center;&quot;&#x2F;&gt;</content>
+	</entry>
+</feed>
